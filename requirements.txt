@@ -1,0 +1,7 @@
+kafka-python
+elasticsearch
+flask
+python-dotenv
+requests
+uuid
+fluent-logger
